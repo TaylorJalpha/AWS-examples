@@ -11,6 +11,7 @@
 
 Notes: 
 
+- AWS Official Study Guide - by Joe Barin , Hirsham Baz, Tim Biixler, Biff Gaut, Kevin E Kelly, Sean Senior, and John Stamper
 - Created remote repo via Github
 - Generated access keys
 - Insalled Python3 via berw
