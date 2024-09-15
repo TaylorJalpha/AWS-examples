@@ -42,11 +42,11 @@ To configure auto-prompt, you can use the following methods in order of preceden
 9. `aws ec2 create-security-group`: Creates a new security group for EC2 instances.
 10. `aws autoscaling describe-auto-scaling-groups`: Provides details about Auto Scaling groups.
 
-Remember to practice these commands and understand their usage in different scenarios.
+*Remember to practice these commands and understand their usage in different scenarios.*
 
 ### Additional Notes and Commands
 
-Here are some additional notes and commands worth studying for the AWS Solutions Architect - Associate certification:
+*Here are some additional notes and commands worth studying for the AWS Solutions Architect - Associate certification:*
 
 11. `aws cloudfront list-distributions`: Lists all the CloudFront distributions in your account.
 12. `aws s3 sync`: Syncs the contents of a local directory with an S3 bucket.
@@ -59,15 +59,15 @@ Here are some additional notes and commands worth studying for the AWS Solutions
 19. `aws s3api get-bucket-policy`: Retrieves the bucket policy for an S3 bucket.
 20. `aws ec2 authorize-security-group-ingress`: Adds an inbound rule to a security group.
 
-Make sure to explore these commands and their functionalities to enhance your understanding of AWS services.
+*Make sure to explore these commands and their functionalities to enhance your understanding of AWS services.*
 
 ### Additional References
 
-Here are some additional references that can help you in your AWS Solutions Architect - Associate certification preparation:
+*Here are some additional references that can help you in your AWS Solutions Architect - Associate certification preparation:*
 
 - [AWS Certified Solutions Architect - Associate Exam Guide](https://www.aws.training/Details/Curriculum?id=20685)
 - [AWS Certified Solutions Architect - Associate Sample Questions](https://d1.awsstatic.com/training-and-certification/docs-sa-assoc/AWS-Certified-Solutions-Architect-Associate_Sample-Questions.pdf)
 - [AWS Certified Solutions Architect - Associate Practice Exam](https://www.aws.training/Details/Curriculum?id=20686)
 
-Remember to utilize these resources to further enhance your knowledge and skills in AWS architecture.
+*Remember to utilize these resources to further enhance your knowledge and skills in AWS architecture.*
 
