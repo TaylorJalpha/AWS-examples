@@ -6,6 +6,15 @@
 - AWS_Certified_Solutions_Architect_Study_Guide,_2nd_Edition_Ben_Piper.pdf
 - SAA-C02 Study Guide by Nathan Vontz
 - xfun::embed_file()
+--- 
+
+⭐️ ⭐️ ⭐️ 
+
+- [AWS Developer Docs](https://github.com/awsdocs/amazon-s3-developer-guide/tree/master) <- Link to the Github repo containing all of the prior development docs for AWS
+- [Cantrill IO-Labs - List of excellent technical examples for the exam](https://github.com/TaylorJalpha/learn-cantrill-io-labs) <- Excellent reference
+- [Excellent notes for exam prep via Github](https://github.com/TaylorJalpha/aws-solutions-architect-associate-notes) <- great resource as a quick study guide
+
+---
 
 ### Notes: 
 
@@ -73,10 +82,6 @@ To configure auto-prompt, you can use the following methods in order of preceden
 
 --- 
 
-⭐️ ⭐️ ⭐️ 
 
-[AWS Developer Docs](https://github.com/awsdocs/amazon-s3-developer-guide/tree/master) <- Link to the Github repo containing all of the prior development docs for AWS
-[Cantrill IO-Labs - List of excellent technical examples for the exam](https://github.com/TaylorJalpha/learn-cantrill-io-labs) <- Excellent reference
-[Excellent notes for exam prep via Github](https://github.com/TaylorJalpha/aws-solutions-architect-associate-notes) <- great resource as a quick study guide
 
 
