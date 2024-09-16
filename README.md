@@ -72,6 +72,9 @@ To configure auto-prompt, you can use the following methods in order of preceden
 *Remember to utilize these resources to further enhance your knowledge and skills in AWS architecture.*
 
 --- 
+
+⭐️ ⭐️ ⭐️ 
+
 [AWS Developer Docs](https://github.com/awsdocs/amazon-s3-developer-guide/tree/master) <- Link to the Github repo containing all of the prior development docs for AWS
 [Cantrill IO-Labs - List of excellent technical examples for the exam](https://github.com/TaylorJalpha/learn-cantrill-io-labs) <- Excellent reference
 [Excellent notes for exam prep via Github](https://github.com/TaylorJalpha/aws-solutions-architect-associate-notes) <- great resource as a quick study guide
