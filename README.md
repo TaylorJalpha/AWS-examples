@@ -14,6 +14,8 @@
 - [Cantrill IO-Labs - List of excellent technical examples for the exam](https://github.com/TaylorJalpha/learn-cantrill-io-labs) <- Excellent reference
 - [Excellent notes for exam prep via Github](https://github.com/TaylorJalpha/aws-solutions-architect-associate-notes) <- great resource as a quick study guide
 
+- ^ [Preparation Strategy for AWS Solutions Architect Associate Exam, blog post](https://sumit-ghosh.com/posts/aws-solutions-architect-associate-preparation)
+
 ---
 
 ### Notes: 
